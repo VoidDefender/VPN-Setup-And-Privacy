@@ -30,10 +30,10 @@ Set up a VPN client on a Linux system, connect to a VPN server, observe changes 
 - VPN Setup.md  
 - Benefits and Limitations.md  
 - VPN Connection Test/
-  - ip-before.md  
-  - ip-after.md  
-  - speed-before.md  
-  - speed-after.md
+  - Ip-Before-VPN.md  
+  - Ip-After-VPN.md  
+  - Speed-Before-VPN.md  
+  - Speed-After-VPN.md
 
 ---
 
